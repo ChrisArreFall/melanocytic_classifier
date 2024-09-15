@@ -1,0 +1,4 @@
+ISIC-images/
+tuner_dir/
+.ipynb_checkpoints/
+melanocytic_classif_model.keras
